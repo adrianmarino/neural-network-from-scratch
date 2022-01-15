@@ -1,4 +1,4 @@
-# Neural network from scratch
+# MLP Neural network from scratch
 
 This notebook implement a neural network micro-framework with a design Influenced by Keras framework abstractions. This makes it somewhat easier to introduce new changes.
 
